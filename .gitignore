@@ -1,0 +1,26 @@
+
+# Archivos privados de configuracion
+.env
+.env.local
+config.local.php
+
+# Registros de errores
+*.log
+logs/
+
+# Dependencias
+/vendor/
+/node_modules/
+
+# Archivos temporales
+*.tmp
+*.bak
+*.swp
+
+# Configuracion de editores
+.vscode/
+.idea/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
